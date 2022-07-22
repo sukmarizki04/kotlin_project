@@ -1,0 +1,4 @@
+package belajar
+
+class Annotation {
+}
